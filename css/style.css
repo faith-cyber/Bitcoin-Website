@@ -1180,7 +1180,8 @@ p.sub{
   border-radius: 20px;
   position: relative;
   align-items: center;
-  left: 100px;
+  left: 30px;
+  max-width: 100%;
 }
 }
 .about-img{
