@@ -1156,7 +1156,7 @@ p.sub{
   display: block;
   text-align: center;
   position: relative;
-  left: 150px;
+  left: 130px;
   top: 150px;
   animation: zoomInOut 1s linear infinite;
   
@@ -1180,7 +1180,7 @@ p.sub{
   border-radius: 20px;
   position: relative;
   align-items: center;
-  left: 30px !important;
+  left: 100px;
 }
 }
 .about-img{
