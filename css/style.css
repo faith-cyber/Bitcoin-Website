@@ -1156,7 +1156,7 @@ p.sub{
   display: block;
   text-align: center;
   position: relative;
-  left: 100px;
+  left: 80px;
   top: 150px;
   animation: zoomInOut 1s linear infinite;
   
