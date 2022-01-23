@@ -986,7 +986,7 @@ p.sub{
   border-radius: 20px;
   position: relative;
   align-items: center;
-  left: 200px !important;
+  left: 100px !important;
 }
 .services-item p{
   color: rgb(255, 251, 251);
@@ -1156,7 +1156,7 @@ p.sub{
   display: block;
   text-align: center;
   position: relative;
-  left: 200px;
+  left: 150px;
   top: 150px;
   animation: zoomInOut 1s linear infinite;
   
@@ -1180,7 +1180,8 @@ p.sub{
   border-radius: 20px;
   position: relative;
   align-items: center;
-  left: 150px;
+  left: 30px !important;
+}
 }
 .about-img{
   position: relative;
